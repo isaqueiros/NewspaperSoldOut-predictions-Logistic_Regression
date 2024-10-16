@@ -18,4 +18,5 @@ Report Structure
     - Quality Metrics
 
 Results Observation
+
 During the comparison of model 1 (imbalanced data) and model 2 (balanced data) it was observed that while the models Accuracy varied with an increase in percentage once the data had been balanced (from 87% in model 1 to 89% in model 2), the Area Under Curve (AUC) remained stable at 96%, demostrating to be more reliable to evaluate the model quality in this scenario as it reflects the model's discriminatory ability between the classes.
